@@ -1,5 +1,5 @@
 # Manim-Vids-for-Senior-High
-Try to learn Manim and create videos for senior high education in China.
+Try to learn Manim and create videos for senior high education (maybe not just for senior high) in China.
 
 Welcome to follow my bilibili account https://space.bilibili.com/525323175.
 
